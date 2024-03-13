@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "baseUrl": "../node_modules",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "types": [
+            "cypress",
+        ]
+    }
+}
